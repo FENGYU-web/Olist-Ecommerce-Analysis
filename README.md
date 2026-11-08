@@ -58,7 +58,7 @@
 <summary>👉 展开查看：各州准时率 Top 10 与 Bottom 10</summary>
 <br>
 
-![Overview Rank](Dashboard_Screenshots/Overview_Rank.png)
+![Overview Rank](Dashboard_Screenshots/Overview_rank.png)
 </details>
 
 ---
