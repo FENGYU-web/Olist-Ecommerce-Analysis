@@ -11,7 +11,7 @@
 本项目基于 Kaggle 上真实的 **Olist 巴西电商数据集**，构建了一套端到端的商业数据科学工作流。涵盖了从 **底层 MySQL 数仓建模、复杂窗口函数聚合、Python 数据清洗与统计检验（SciPy），到最终产出 Plotly 交互式图表与 Streamlit 多页面数据大屏** 的完整闭环。
 
 ## 🌐 在线演示 (Live Demo)
-👉 **[点击此处体验完整的交互式数据大屏](#)** *(⚠️ 待你在 Streamlit Cloud 部署后，将链接填在这里)*
+👉 **[点击此处体验完整的交互式数据大屏](https://olist-ecommerce-dashboard666.streamlit.app)**
 
 ![Home](Dashboard_Screenshots/Home.png)
 
