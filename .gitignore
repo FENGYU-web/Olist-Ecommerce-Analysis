@@ -1,0 +1,12 @@
+# 虚拟环境
+.venv/
+venv/
+
+# 原始数据 (太大了，不要传)
+data/raw/
+
+# 编辑器缓存
+.idea/
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
